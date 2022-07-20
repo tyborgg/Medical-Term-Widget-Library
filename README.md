@@ -6,6 +6,6 @@
 
 ## All accessed through one function
 
-* Function call: widget(string) 
+* Function call: <span style="color:blue">widget</span>(*string*)
 * Takes in a string input (list of all element tags the widget applies to)
   * String input examples: "div, p, h1"
