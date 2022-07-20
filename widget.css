@@ -1,0 +1,25 @@
+#userQuestion {
+    border-radius: 20px;
+    border: 2px solid darkblue;
+    padding: 20px; 
+    width: 200px;
+    height: 5px; 
+    background-color: lightgrey;
+}
+
+#userSubmit {
+    border-radius: 20px;
+    border: 2px solid darkblue;
+    padding: 14px; 
+    width: 100px;
+    font-size: 15px;
+    background-color: lightgrey;
+}
+
+#alterText{
+    border: 2px solid;
+    padding: 10px;
+    border-radius: 20px;
+    border-color: black;
+    position: relative;
+}
