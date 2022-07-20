@@ -3,7 +3,7 @@
 * Keyword tagging/highlighting
 * Provides relevant medical information
 * Dynamic info access
-===
+
 ## All accessed through one function
 
 * Function call: widget(string) 
